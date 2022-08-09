@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyleFagnan
-- 🌱 I’m currently learning Python & Solidity
+- 🌱 I’m currently learning Digital marketing/google analytics 
 - 📫 How to reach me kfagnan19@gmail.com
 - 📜 My [Resume](https://resume.creddle.io/resume/b4xd85rkfjg)
 
